@@ -210,7 +210,7 @@ xf86-input-wacom
 ##other
 #cups
 dbus-daemon-units
-neofetch
+nvim
 pipewire-jack
 switcheroo-control
 qt6-multimedia-ffmpeg
@@ -235,13 +235,6 @@ apparmor
 ufw
 gufw
 
-# installer
-#calamares
-yaml-cpp
-ckbcomp
-mkinitcpio-openswap
-#obsidianos-calamares-settings
-hwinfo
 
 # alpha offline installer
 rsync
