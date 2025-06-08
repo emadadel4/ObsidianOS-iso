@@ -3,7 +3,7 @@
 
 iso_name="ObsidianOS"
 iso_label="ObsidianOS-_$(date --date="@${SOURCE_DATE_EPOCH:-$(date +%s)}" +%Y%m)"
-iso_publisher="Mohamed Tarek <github.com/xjlsigmaboy>"
+iso_publisher="Mohamed Tarek <mohamedtarek21@proton.me>"
 iso_application="ObsidianOS"
 iso_version="$(date --date="@${SOURCE_DATE_EPOCH:-$(date +%s)}" +%Y.%m.%d)"
 install_dir="arch"

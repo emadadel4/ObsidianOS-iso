@@ -41,6 +41,7 @@ dosfstools
 e2fsprogs
 edk2-shell
 efibootmgr
+erofsfuse
 espeakup
 ethtool
 exfatprogs
@@ -48,7 +49,6 @@ f2fs-tools
 fatresize
 foot-terminfo
 fsarchiver
-gnu-netcat
 gpart
 gparted
 gpm
@@ -104,7 +104,7 @@ ppp
 pptpclient
 refind
 reflector
-reiserfsprogs
+#reiserfsprogs
 rp-pppoe
 rsync
 rxvt-unicode-terminfo
@@ -211,7 +211,7 @@ xf86-input-wacom
 ##other
 #cups
 dbus-daemon-units
-neofetch
+nvim
 pipewire-jack
 switcheroo-control
 qt6-multimedia-ffmpeg
@@ -236,9 +236,6 @@ apparmor
 ufw
 gufw
 
-# installer
-calamares
-yaml-cpp
-ckbcomp
-mkinitcpio-openswap
-obsidianos-calamares-settings
+
+# alpha offline installer
+rsync
