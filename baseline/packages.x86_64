@@ -142,7 +142,8 @@ xl2tpd
 
 #KDE
 plasma
-konsole
+#konsole
+alacritty
 kdeconnect
 dolphin
 phonon-qt5-vlc
@@ -161,7 +162,7 @@ kclock
 ark
 
 #browser
-chromium
+firefox
 
 #media player
 vlc
